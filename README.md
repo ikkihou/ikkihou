@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AI-based Electron Microscopy(EM) image analysis
+- 🌱 I’m currently learning AI, Programming, Materials Science, EM
+
+
 <!--
 **ikkihou/ikkihou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
