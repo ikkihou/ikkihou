@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IKKIHOU</h1>
+<h1 align="center">Hi 👋, I'm ikkihou</h1>
 
 - 🔭 I’m currently working on **AI-based Electron Microscopy(EM) image analysis**
 
